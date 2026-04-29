@@ -1,0 +1,9 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.0
+sqlalchemy==2.0.39
+psycopg2-binary==2.9.10
+pydantic-settings==2.8.1
+python-multipart==0.0.20
+opencv-python-headless==4.11.0.86
+numpy==2.2.3
+websockets==15.0.1
